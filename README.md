@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ABHIN V
 - 👀 I’m interested in it field like web developer and software engnieer
-- 🌱 I’m currently working as a software developer 
+- 🌱 I’m currently self learning and open worker .i had a above 3 month experience .
 - 📫 How to reach me abhinpradeepan@gmail.com
 
 <!---
