@@ -7,7 +7,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 
 - 👋 Hi, I’m ABHIN V
-- 👀 I’m interested in it  web developer and software engnieer
+- 👀 I’m interested in it  web development 
 - 🌱 I’m currently self learning and open worker .I had above 3 month experience .
 - 📫 How to reach me abhinpradeepan@gmail.com
 
