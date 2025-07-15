@@ -8,8 +8,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - 👋 Hi, I’m ABHIN V
 - 👀 I’m interested in it  web development 
-- 🌱 I’m currently self learning and open worker .I had above 3 month experience .
-- 📫 How to reach me abhinpradeepan@gmail.com
+- 🌱 I’m currently a worker .I had above 11 month experience .
+- 📫 To reach me, abhinpradeepan@gmail.com
 
 - ---
 
